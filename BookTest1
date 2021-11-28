@@ -1,0 +1,21 @@
+No more than exactly 70 characters per line to fit the UI design I
+Think
+Try
+To
+fit
+Everything
+In
+7 Lines
+
+But
+If
+You
+Put
+A
+Line
+between
+
+I think that it would be okay, I'm not entirely sure how this works
+But thats what this test is for... Mainly to see what I can all fit on a page
+and how it needs to be split up using the String.Split function on Lua
+\n\r
